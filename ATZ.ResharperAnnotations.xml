@@ -4,4 +4,5 @@
 
   <property name="project.name" value="ReSharperAnnotations" />
   <include buildfile="../NAnt/ATZ.Build.NuGet.NuSpecOnly.xml" />
+  <include buildfile="../NAnt/ATZ.Build.Publish.xml" />
 </project>

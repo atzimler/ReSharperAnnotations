@@ -3,14 +3,14 @@
   <metadata>
     <id>ATZ.ReSharper.[LibraryName]</id>
     <version>[Version in yyyy.mm.dd format]</version>
-    <title>R# External Annotations for [LibraryName]</title>
+    <title>[LibraryName] External Annotations</title>
     <authors>Attila Tamas Zimler</authors>
     <owners>Attila Tamas Zimler</owners>
 
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectUrl>https://github.com/atzimler/ReSharperAnnotations</projectUrl>
     <licenseUrl>https://raw.githubusercontent.com/atzimler/ReSharperAnnotations/master/LICENSE</licenseUrl>
-    <description>R# External Annotations for [LibraryName]</description>
+    <description>3rd party unofficial annotations (Work in progress)</description>
     <releaseNotes />
     <copyright>Copyright 2017</copyright>
     <dependencies>

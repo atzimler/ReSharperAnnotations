@@ -3,5 +3,5 @@
   <description>Build file for ATZ.ReSharperAnnotations ReSharper extensions.</description>
 
   <property name="project.name" value="ReSharperAnnotations" />
-  <include buildfile="../NAnt/ATZ.Build.NuGet.xml" />
+  <include buildfile="../NAnt/ATZ.Build.NuGet.NuSpecOnly.xml" />
 </project>

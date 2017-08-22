@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package>
+  <metadata>
+    <id>ATZ.ReSharperAnnotations.FluentAssertions</id>
+    <version>2017.8.23</version>
+    <title>R# External Annotations for FluentAssertions</title>
+    <authors>Attila Tamas Zimler</authors>
+    <owners>Attila Tamas Zimler</owners>
+
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/atzimler/ReSharperAnnotations</projectUrl>
+    <licenseUrl>https://raw.githubusercontent.com/atzimler/ReSharperAnnotations/master/LICENSE</licenseUrl>
+    <description>R# External Annotations for FluentAssertions</description>
+    <releaseNotes />
+    <copyright>Copyright 2017</copyright>
+    <dependencies>
+      <dependency id="Wave" version="[8.0]" />
+    </dependencies>
+  </metadata>
+
+  <files>
+    <file src="FluentAssertions.ExternalAnnotations.xml" target="DotFiles/ExternalAnnotations/FluentAssertions" />
+  </files>
+</package>

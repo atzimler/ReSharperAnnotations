@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project name="ATZ.ReSharperAnnotations" default="help">
+  <description>Build file for ATZ.ReSharperAnnotations ReSharper extensions.</description>
+
+  <property name="project.name" value="ReSharperAnnotations" />
+  <include buildfile="../NAnt/ATZ.Build.NuGet.xml" />
+</project>

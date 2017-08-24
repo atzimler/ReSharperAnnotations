@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <package>
   <metadata>
-    <id>ATZ.ReSharperAnnotations.[LibraryName]</id>
-    <version>[Version in yyyy.mm.dd format]</version>
-    <title>[LibraryName] External Annotations</title>
+    <id>ATZ.ReSharperAnnotations.Xamarin</id>
+    <version>2017.8.25</version>
+    <title>Xamarin External Annotations</title>
     <authors>Attila Tamas Zimler</authors>
     <owners>Attila Tamas Zimler</owners>
 
@@ -19,6 +19,6 @@
   </metadata>
 
   <files>
-    <file src="[LibraryName].ExternalAnnotations.xml" target="DotFiles/ExternalAnnotations/[LibraryName]" />
+    <file src="Xamarin.Forms.xml" target="DotFiles/ExternalAnnotations/Xamarin" />
   </files>
 </package>

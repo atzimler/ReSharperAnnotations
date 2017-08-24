@@ -19,6 +19,6 @@
   </metadata>
 
   <files>
-    <file src="Xamarin.Forms.xml" target="DotFiles/ExternalAnnotations/Xamarin" />
+    <file src="Xamarin.Forms.ExternalAnnotations.xml" target="DotFiles/ExternalAnnotations/Xamarin" />
   </files>
 </package>
